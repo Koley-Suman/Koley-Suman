@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=koley-suman&label=Profile%20views&color=0e75b6&style=flat" alt="koley-suman" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=koley-suman" alt="koley-suman" /></a> </p>
-
 - 🔭 I’m currently working as **freelancer**
 
 - 🌱 I’m currently learning **NEXT.js**
